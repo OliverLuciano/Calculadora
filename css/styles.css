@@ -33,7 +33,7 @@ body {
 }
 
 
-#previus-operation, #current-operation{
+#previous-operation, #current-operation{
     padding: 0.2em;
     overflow-wrap: break-word;
     min-height: 1.6em;
